@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+ANAMIKA's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://anamika-portfolio.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/mk-logoo.png" alt="MK-Website"></a>
+<a href="https://anamika-portfolio-gamma.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/mk-logoo.png" alt="MK-Website"></a>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Anamika Kumar
 
@@ -12,7 +12,7 @@
 
 ### ⚙️ Check Out :
 
-- 💻🌐 <b>My Portfolio-Website => [www.anamika-portfolio.com](https://anamika-portfolio.vercel.app/) </b>
+- 💻🌐 <b>My Portfolio-Website => [www.anamika-portfolio.com](https://anamika-portfolio-gamma.vercel.app/) </b>
 
 ### \_\_
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/anamika170304" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/twitter.png" alt="Twitter" height="40" width="50" title="twitter" /></a>
 <a href="https://github.com/anamika4ak" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" title="github" /></a>
 <a href="https://www.linkedin.com/in/anamika4ak" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" title="linkedin" /></a>
-<a href="mailto:anamika170304@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
+<a href="mailto:anamika170304@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
 
 </p>
 
