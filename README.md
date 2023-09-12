@@ -12,7 +12,7 @@
 
 ### ⚙️ Check Out :
 
-- 💻🌐 <b>My Portfolio-Website => [www.anamika-portfolio.com](https://anamika-portfolio.vercel.app/) </b>
+- 💻🌐 <b>My Portfolio-Website => [www.anamika-portfolio.com](https://anamika-portfolio-gamma.vercel.app/) </b>
 
 ### \_\_
 
