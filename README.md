@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+ANAMIKA's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://anamika-portfolio-gamma.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/ak-logo.png" alt="MK-Website"></a>
+<a href="https://anamika-portfolio-gamma.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/ak-logo.jpg" alt="MK-Website"></a>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Anamika Kumar
 
